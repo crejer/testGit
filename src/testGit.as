@@ -15,6 +15,8 @@ package
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			
 			//testing tralalala
+
+			// op internet gedaan
 		}
 	}
 }
